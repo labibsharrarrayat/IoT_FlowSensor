@@ -7,3 +7,6 @@ Electronic Components - NodeMCU ESP8266, 5V flow rate sensor, 12V Solenoid Valve
 
 Software/Programming Languages - Arduino IDE, MQTT
 
+Instructions for the repository:
+The Arduino IDE codes for Flow Sensor 1 and Flow Sensor 2 are named NEW_MQTT_subscribe.ino and NEW_MQTT_subscribe2.ino respectively. As for the code of the main controller, it is named NEW_PANEL3.ino. 
+
